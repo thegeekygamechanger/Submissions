@@ -1,0 +1,43 @@
+**Technology Name: jQuery**
+- Regex Pattern: `jquery.*\.js`
+- Sample Website: `https://jquery.com`
+
+**Technology Name: React.js**
+- Regex Pattern: `\bReact\b`
+- Sample Website: `https://reactjs.org`
+
+**Technology Name: WooCommerce**
+- Regex Pattern: `woocommerce`
+- Sample Website: `https://woocommerce.com`
+
+**Technology Name: Bootstrap**
+- Regex Pattern: `bootstrap.*\.css`
+- Sample Website: `https://getbootstrap.com`
+
+**Technology Name: Shopify**
+- Regex Pattern: `myshopify\.com`
+- Sample Website: `https://www.shopify.com`
+
+**Technology Name: Next.js**
+- Regex Pattern: `next\.js`
+- Sample Website: `https://nextjs.org`
+
+**Technology Name: Materialize CSS**
+- Regex Pattern: `materialize.*\.css`
+- Sample Website: `https://materializecss.com`
+
+**Technology Name: PHP**
+- Regex Pattern: `\bPHP\b`
+- Sample Website: `https://www.php.net`
+
+**Technology Name: Python**
+- Regex Pattern: `\bPython\b`
+- Sample Website: `https://www.python.org`
+
+**Technology Name: Google Maps**
+- Regex Pattern: `maps\.googleapis\.com`
+- Sample Website: `https://www.google.com/maps`
+
+
+
+
